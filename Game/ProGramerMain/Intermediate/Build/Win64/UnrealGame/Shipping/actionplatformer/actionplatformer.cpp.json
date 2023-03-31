@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\banji\\documents\\unreal projects\\actionplatformer\\intermediate\\source\\actionplatformer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\banji\\documents\\unreal projects\\actionplatformer\\intermediate\\build\\win64\\actionplatformer\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\banji\\documents\\unreal projects\\actionplatformer\\intermediate\\build\\win64\\unrealgame\\shipping\\actionplatformer\\definitions.actionplatformer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

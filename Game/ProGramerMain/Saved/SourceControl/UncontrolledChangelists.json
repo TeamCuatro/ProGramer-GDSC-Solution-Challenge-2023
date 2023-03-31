@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Dialogue/BP_NPC.uasset",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Levels/mainmenumap.umap",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Levels/level1.umap",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Dialogue/BPI_NPC.uasset",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/PlayerCharacter/Player_BP.uasset",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Dialogue/Dialog.uasset",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Widgetblueprints/Mainmen_WB.uasset",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Dialogue/BPI_NPC1.uasset",
+				"C:/Users/kriki/Downloads/2D PlatformerCoureAssetrs/actionplatformer/Content/Dialogue/BP1_NPC.uasset"
+			]
+		}
+	]
+}

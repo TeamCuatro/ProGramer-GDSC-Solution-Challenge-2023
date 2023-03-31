@@ -1,0 +1,1417 @@
+﻿Log file open, 10/28/22 23:58:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=2460)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: actionplatformer
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\banji\Documents\Unreal Projects\actionplatformer\actionplatformer.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.978] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5700G with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="020be1224074c870da5071b6b5e11305"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.323642
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6715E8A4483509E606EDA9BF564CAA79
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin PaperZD
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/PaperZD/Content/' mounted to '/PaperZD/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.978] (), CPU: AMD Ryzen 7 5700G with Radeon Graphics         , GPU: AMD Radeon RX 6600 XT
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.28-22.58.18:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.28-22.58.18:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.28-22.58.18:209][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.28-22.58.18:210][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.28-22.58.18:211][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.28-22.58.18:211][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.28-22.58.18:211][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.28-22.58.18:211][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.28-22.58.18:211][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.28-22.58.18:212][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.28-22.58.18:212][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.28-22.58.18:212][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.28-22.58.18:212][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.28-22.58.18:212][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.28-22.58.18:212][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.28-22.58.18:225][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.28-22.58.18:225][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.28-22.58.18:354][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon RX 6600 XT (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.28-22.58.18:354][  0]LogD3D12RHI: Adapter has 8146MB of dedicated video memory, 0MB of dedicated system memory, and 8111MB of shared system memory, 1 output[s]
+[2022.10.28-22.58.18:363][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.28-22.58.18:363][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8111MB of shared system memory, 0 output[s]
+[2022.10.28-22.58.18:363][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.28-22.58.18:364][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.28-22.58.18:364][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.28-22.58.18:364][  0]LogHAL: Display: Platform has ~ 16 GB [17011912704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.28-22.58.18:364][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.28-22.58.18:364][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.28-22.58.18:364][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.28-22.58.18:367][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.28-22.58.18:367][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.28-22.58.18:367][  0]LogInit: Computer: BANJIS-PC
+[2022.10.28-22.58.18:367][  0]LogInit: User: banji
+[2022.10.28-22.58.18:367][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.10.28-22.58.18:367][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.28-22.58.18:367][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.10.28-22.58.18:367][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.28-22.58.18:367][  0]LogMemory: Process Physical Memory: 272.35 MB used, 333.88 MB peak
+[2022.10.28-22.58.18:367][  0]LogMemory: Process Virtual Memory: 253.47 MB used, 279.61 MB peak
+[2022.10.28-22.58.18:367][  0]LogMemory: Physical Memory: 7487.49 MB used,  8736.33 MB free, 16223.82 MB total
+[2022.10.28-22.58.18:367][  0]LogMemory: Virtual Memory: 11630.46 MB used,  15469.66 MB free, 27100.12 MB total
+[2022.10.28-22.58.18:367][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.28-22.58.18:374][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.28-22.58.18:389][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.28-22.58.18:390][  0]LogInit: Using OS detected language (en-GB).
+[2022.10.28-22.58.18:390][  0]LogInit: Using OS detected locale (en-GB).
+[2022.10.28-22.58.18:392][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.10.28-22.58.18:574][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.28-22.58.18:583][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.28-22.58.18:584][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.10.28-22.58.18:584][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.10.28-22.58.18:609][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.28-22.58.18:609][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.28-22.58.20:348][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.28-22.58.20:348][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.28-22.58.20:419][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.28-22.58.20:436][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.28-22.58.20:438][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.28-22.58.20:440][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.28-22.58.20:450][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.28-22.58.20:450][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.28-22.58.20:487][  0]LogD3D12RHI: AMD hit token extension is supported
+[2022.10.28-22.58.20:487][  0]LogD3D12RHI:     GPU DeviceId: 0x73ff (for the marketing name, search the web for "GPU Device Id")
+[2022.10.28-22.58.20:487][  0]LogWindows: Attached monitors:
+[2022.10.28-22.58.20:488][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.28-22.58.20:488][  0]LogWindows: Found 1 attached monitors.
+[2022.10.28-22.58.20:488][  0]LogWindows: EnumDisplayDevices:
+[2022.10.28-22.58.20:488][  0]LogWindows:    0. 'AMD Radeon RX 6600 XT' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.28-22.58.20:488][  0]LogWindows:    1. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.28-22.58.20:488][  0]LogWindows:    2. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.28-22.58.20:488][  0]LogWindows:    3. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.28-22.58.20:488][  0]LogWindows:    4. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.10.28-22.58.20:489][  0]LogWindows:    5. 'AMD Radeon RX 6600 XT' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.10.28-22.58.20:489][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.10.28-22.58.20:489][  0]LogD3D12RHI:     Adapter Name: AMD Radeon RX 6600 XT
+[2022.10.28-22.58.20:489][  0]LogD3D12RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.16.04 (internal:31.0.12016.4002, unified:31.0.12016.4002)
+[2022.10.28-22.58.20:489][  0]LogD3D12RHI:      Driver Date: 8-11-2022
+[2022.10.28-22.58.20:489][  0]LogRHI: Texture pool is 4648 MB (70% of 6640 MB)
+[2022.10.28-22.58.20:489][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.28-22.58.20:489][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.28-22.58.20:507][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/banji/Documents/Unreal Projects/actionplatformer/actionplatformer.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Intermediate/TurnkeyReport_0.log" -log="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Intermediate/TurnkeyLog_0.log" -project="C:/Users/banji/Documents/Unreal Projects/actionplatformer/actionplatformer.uproject"  -platform=all'
+[2022.10.28-22.58.20:507][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/banji/Documents/Unreal Projects/actionplatformer/actionplatformer.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Intermediate/TurnkeyReport_0.log" -log="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Intermediate/TurnkeyLog_0.log" -project="C:/Users/banji/Documents/Unreal Projects/actionplatformer/actionplatformer.uproject"  -platform=all" ]
+[2022.10.28-22.58.20:530][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.28-22.58.20:537][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.28-22.58.20:537][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.28-22.58.20:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.28-22.58.20:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.28-22.58.20:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.28-22.58.20:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.28-22.58.20:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.28-22.58.20:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.28-22.58.20:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.28-22.58.20:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.28-22.58.20:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.28-22.58.20:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.28-22.58.20:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.28-22.58.20:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.28-22.58.20:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.28-22.58.20:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.28-22.58.20:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.28-22.58.20:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.28-22.58.20:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.28-22.58.20:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.28-22.58.20:588][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.28-22.58.20:595][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.28-22.58.20:598][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.28-22.58.20:598][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.28-22.58.20:598][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.28-22.58.20:598][  0]LogTargetPlatformManager:   PCM
+[2022.10.28-22.58.20:601][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.28-22.58.20:601][  0]LogTargetPlatformManager:   BINKA
+[2022.10.28-22.58.20:601][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.28-22.58.20:601][  0]LogTargetPlatformManager:   OGG
+[2022.10.28-22.58.20:601][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.28-22.58.20:601][  0]LogTargetPlatformManager:   OPUS
+[2022.10.28-22.58.20:636][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.28-22.58.20:643][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.28-22.58.20:647][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.28-22.58.20:647][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.28-22.58.20:647][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.28-22.58.20:647][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.28-22.58.20:647][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.28-22.58.20:647][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.28-22.58.20:647][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.28-22.58.20:647][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.28-22.58.20:647][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/banji/Documents/Unreal Projects/actionplatformer/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.28-22.58.20:651][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.28-22.58.20:651][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/banji/Documents/Unreal Projects/actionplatformer/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.28-22.58.20:654][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.28-22.58.20:657][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/banji/Documents/Unreal Projects/actionplatformer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.28-22.58.20:657][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.28-22.58.20:657][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/banji/Documents/Unreal Projects/actionplatformer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.28-22.58.20:657][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.28-22.58.20:679][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.10.28-22.58.20:679][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.28-22.58.20:679][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.28-22.58.20:720][  0]LogDerivedDataCache: Speed tests for C:/Users/banji/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.10.28-22.58.20:720][  0]LogDerivedDataCache: Display: Performance to C:/Users/banji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=27.00MBs, RandomWriteSpeed=149.22MBs. Assigned SpeedClass 'Local'
+[2022.10.28-22.58.20:721][  0]LogDerivedDataCache: Using Local data cache path C:/Users/banji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.28-22.58.20:722][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.28-22.58.20:722][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.28-22.58.20:726][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.28-22.58.20:726][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.28-22.58.20:726][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (C:/Users/banji/Documents/Unreal Projects/actionplatformer/Intermediate/Shaders/WorkingDirectory/6476/).
+[2022.10.28-22.58.20:727][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/banji/AppData/Local/Temp/UnrealShaderWorkingDir/A198D66B42B2218EDBC8C8A32B4CB4C2/'.
+[2022.10.28-22.58.20:727][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.28-22.58.20:727][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.10.28-22.58.24:147][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.28-22.58.24:147][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.28-22.58.24:147][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.28-22.58.24:189][  0]LogAssetRegistry: FAssetRegistry took 0.0094 seconds to start up
+[2022.10.28-22.58.24:193][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.28-22.58.24:378][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.28-22.58.24:379][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.28-22.58.24:578][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.28-22.58.24:578][  0]LogDeviceProfileManager: Active device profile: [00000895912B86C0][0000089584FF0000 50] WindowsEditor
+[2022.10.28-22.58.24:578][  0]LogDeviceProfileManager: Profiles: [00000895912B8880][0000089584FF5000 50] Windows, [00000895912B86C0][0000089584FF0000 50] WindowsEditor, [00000895912B7C40][0000089584F97800 50] WindowsServer, [00000895912B5B00][0000089584F3C800 50] WindowsClient, [00000895912B7A80][0000089584FF2800 50] IOS, [00000895912B5940][000008957797A000 50] iPadAir2, [00000895912B5780][0000089591662800 50] IPadPro, [00000895912B55C0][0000089591660000 50] iPadAir3, [00000895912B7540][0000089591667800 50] iPadAir4, [00000895912B5080][000008959166A000 50] iPadMini4, [00000895912B5CC0][000008959166C800 50] iPadMini5, [00000895912B4440][000008958B0FC800 50] iPadMini6, [00000895912BB7C0][0000089591685000 50] iPhone6S, [00000895912BBB40][0000089591682800 50] iPhone7, [00000895912BB440][0000089591680000 50] iPodTouch7, [00000895912B6C80][000008959168A000 50] iPhone6SPlus, [00000895912B5E80][000008959168C800 50] iPhone7Plus, [00000895912B78C0][0000089591665000 50] iPhoneSE, [00000895912B6AC0][0000089591690000 50] iPhone8, [00000895912B71C0][0000089591695000 50] iPhone8Plus, [00000895912B8180][0000089591697800 50] iPhoneX, [00000895912BB0C0][000008959169A000 50] iPhoneXS, [00000895912BB600][000008959169C800 50] iPhoneXSMax, [00000895912BAF00][0000089591687800 50] iPhoneXR, [00000895912B6580][00000895916B0000 50] iPhone11, [00000895912B8500][00000895916B5000 50] iPhone11Pro, [00000895912B63C0][00000895916B7800 50] iPhone11ProMax, [00000895912BA480][00000895916BA000 50] iPhoneSE2, [00000895912B6740][00000895916BC800 50] iPhone12Mini, [00000895912BA2C0][0000089591692800 50] iPhone12, [00000895912B4B40][00000895916C0000 50] iPhone12Pro, [00000895912B3100][00000895916C5000 50] iPhone12ProMax, [00000895912B7FC0][00000895916C7800 50] iPhone13Mini, [00000895912B7700][00000895916CA000 50] iPhone13, [00000895912BAD40][00000895916CC800 50] iPhone13Pro, [00000895912B9300][00000895916B2800 50] iPhone13ProMax, [00000895912BA640][00000895916D0000 50] iPadPro105, [00000895912B6900][00000895916D5000 50] iPadPro129, [00000895912BA100][00000895916D7800 50] iPadPro97, [00000895912B6E40][00000895916DA000 50] iPadPro2_129, [00000895912BAB80][00000895916DC800 50] iPad5, [00000895912BB280][00000895916C2800 50] iPad6, [00000895912B9840][00000895916E0000 50] iPad7, [00000895912B47C0][00000895916E5000 50] iPad8, [00000895912B9BC0][00000895916E7800 50] iPad9, [00000895912B7E00][00000895916EA000 50] iPadPro11, [00000895912B8C00][00000895916EC800 50] iPadPro2_11, [00000895912B6040][00000895916D2800 50] iPadPro3_11, [00000895912B5400][0000089591700000 50] iPadPro3_129, [00000895912BB980][0000089591705000 50] iPadPro4_129, [00000895912B9140][0000089591707800 50] iPadPro5_129, [00000895912BA800][000008959170A000 50] AppleTV, [00000895912B8DC0][000008959170C800 50] AppleTV4K, [00000895912B4600][00000895916E2800 50] TVOS, [00000895912BE1C0][0000089591712800 50] Mac, [00000895912BE540][0000089591710000 50] MacEditor, [00000895912BD900][0000089591717800 50] MacClient, [00000895912BC5C0][000008959171A000 50] MacServer, [00000895912BE700][0000089591702800 50] Linux, [00000895912B4D00][000008959171C800 50] LinuxEditor, [00000895912BE380][0000089591720000 50] LinuxArm64Editor, [00000895912B7380][0000089591725000 50] LinuxArm64, [00000895912B40C0][0000089591727800 50] LinuxClient, [00000895912BD740][000008959172A000 50] LinuxArm64Client, [00000895912BDAC0][000008959172C800 50] LinuxServer, [00000895912B9680][0000089591715000 50] LinuxArm64Server, [00000895912BC940][0000089591730000 50] Android, [00000895912B9A00][0000089591735000 50] Android_Preview_OpenGL, [00000895912BD040][0000089591737800 50] Android_Preview_Vulkan, [00000895912BC080][000008959173A000 50] Android_Low, [00000895912B8340][000008959173C800 50] Android_Mid, [00000895912BA9C0][0000089591722800 50] Android_High, [00000895912BC240][0000089591740000 50] Android_Default, [00000895912BD3C0][0000089591745000 50] Android_Adreno4xx, [00000895912BDC80][0000089591747800 50] Android_Adreno5xx_Low, [00000895912BBEC0][000008959174A000 50] Android_Adreno5xx, [00000895912B5240][000008959174C800 50] Android_Adreno6xx, [00000895912B2BC0][0000089591732800 50] Android_Adreno6xx_Vulkan, [00000895912B9D80][0000089591750000 50] Android_Adreno7xx, [00000895912BCCC0][0000089591755000 50] Android_Adreno7xx_Vulkan, [00000895912BEE00][0000089591757800 50] Android_Mali_T6xx, [00000895912BBD00][000008959175A000 50] Android_Mali_T7xx, [00000895912BD200][000008959175C800 50] Android_Mali_T8xx, [00000895912B3F00][0000089591742800 50] Android_Mali_G71, [00000895912BC400][0000089591760000 50] Android_Mali_G72, [00000895912BCB00][0000089591765000 50] Android_Mali_G72_Vulkan, [00000895912B6200][0000089591767800 50] Android_Mali_G76, [00000895912BEC40][000008959176A000 50] Android_Mali_G76_Vulkan, [00000895912B4280][000008959176C800 50] Android_Mali_G77, [00000895912BF6C0][0000089591752800 50] Android_Mali_G77_Vulkan, [00000895912BEA80][0000089591770000 50] Android_Mali_G78, [00000895912B9F40][0000089591775000 50] Android_Mali_G78_Vulkan, [00000895912BCE80][0000089591777800 50] Android_Mali_G710, [0000089591790000][000008959177A000 50] Android_Mali_G710_Vulkan, [0000089591792680][000008959177C800 50] Android_Xclipse_920, [0000089591792140][0000089591762800 50] Android_Xclipse_920_Vulkan, [0000089591791F80][0000089591780000 50] Android_Vulkan_SM5, [0000089591791DC0][0000089591785000 50] Android_PowerVR_G6xxx, [0000089591792840][0000089591787800 50] Android_PowerVR_GT7xxx, [0000089591792300][000008959178A000 50] Android_PowerVR_GE8xxx, [0000089591790540][000008959178C800 50] Android_PowerVR_GM9xxx, [0000089591791180][0000089591772800 50] Android_PowerVR_GM9xxx_Vulkan, [0000089591793B80][00000895917A0000 50] Android_TegraK1, [0000089591790700][00000895917A5000 50] Android_Unknown_Vulkan, [0000089591793D40][00000895917A7800 50] Oculus_Quest, [00000895917939C0][00000895917AA000 50] Oculus_Quest2, [0000089591793480][00000895917AC800 50] HoloLens, 
+[2022.10.28-22.58.24:578][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.28-22.58.24:583][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.28-22.58.24:583][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.28-22.58.24:583][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.28-22.58.24:583][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.28-22.58.24:583][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.28-22.58.24:657][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.28-22.58.24:814][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.28-22.58.24:814][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.28-22.58.24:814][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.28-22.58.24:814][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.28-22.58.24:814][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.28-22.58.24:848][  0]LogNetVersion: actionplatformer 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1570127652)
+[2022.10.28-22.58.25:208][  0]LogSlate: Border
+[2022.10.28-22.58.25:208][  0]LogSlate: BreadcrumbButton
+[2022.10.28-22.58.25:208][  0]LogSlate: Default
+[2022.10.28-22.58.25:208][  0]LogSlate: Icons.Save
+[2022.10.28-22.58.25:208][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.28-22.58.25:208][  0]LogSlate: ListView
+[2022.10.28-22.58.25:208][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.28-22.58.25:208][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.28-22.58.25:208][  0]LogSlate: TableView.DarkRow
+[2022.10.28-22.58.25:208][  0]LogSlate: TableView.Row
+[2022.10.28-22.58.25:208][  0]LogSlate: TreeView
+[2022.10.28-22.58.25:912][  0]SourceControl: Source control is disabled
+[2022.10.28-22.58.25:970][  0]SourceControl: Source control is disabled
+[2022.10.28-22.58.25:970][  0]SourceControl: Source control is disabled
+[2022.10.28-22.58.26:122][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.28-22.58.26:122][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.10.28-22.58.26:122][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.28-22.58.26:606][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 65D433254FB5A6A1EF6D76AC4B006341 | Instance: 2485444A49B77D33701054AD9B98848E (BANJIS-PC-6476).
+[2022.10.28-22.58.26:691][  0]LogPython: Using Python 3.9.7
+[2022.10.28-22.58.27:514][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.28-22.58.27:521][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.28-22.58.27:631][  0]SourceControl: Source control is disabled
+[2022.10.28-22.58.27:708][  0]SourceControl: Source control is disabled
+[2022.10.28-22.58.27:736][  0]SourceControl: Source control is disabled
+[2022.10.28-22.58.27:982][  0]LogUProjectInfo: Found projects:
+[2022.10.28-22.58.27:997][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.28-22.58.28:050][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.28-22.58.28:073][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.28-22.58.28:073][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.28-22.58.28:164][  0]LogCollectionManager: Loaded 0 collections in 0.000608 seconds
+[2022.10.28-22.58.28:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Collections/' took 0.00s
+[2022.10.28-22.58.28:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Developers/banji/Collections/' took 0.00s
+[2022.10.28-22.58.28:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Collections/' took 0.00s
+[2022.10.28-22.58.28:509][  0]LogEngine: Initializing Engine...
+[2022.10.28-22.58.28:521][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.28-22.58.28:522][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.28-22.58.28:913][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.28-22.58.28:913][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-22.58.28:923][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-22.58.28:949][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.28-22.58.28:950][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.28-22.58.28:970][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.28-22.58.28:975][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-22.58.28:975][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-22.58.28:975][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-22.58.28:975][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-22.58.28:975][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-22.58.28:975][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-22.58.28:975][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-22.58.28:975][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-22.58.28:981][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-22.58.29:789][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (AB Revolve+)
+[2022.10.28-22.58.29:789][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-22.58.29:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-22.58.29:806][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-22.58.29:806][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.28-22.58.29:806][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.28-22.58.29:808][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.28-22.58.29:808][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.28-22.58.29:808][  0]LogInit: FAudioDevice initialized.
+[2022.10.28-22.58.29:808][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.28-22.58.29:808][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.28-22.58.29:808][  0]LogInit: Texture streaming: Enabled
+[2022.10.28-22.58.29:839][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.10.28-22.58.29:849][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.28-22.58.29:849][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={082921C8-4A4C-1A56-F596-58A4526F73F0}
+[2022.10.28-22.58.29:873][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.28-22.58.29:880][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.28-22.58.29:880][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.28-22.58.30:715][  0]LogLiveCoding: Display: First instance in process group "UE_actionplatformer_0x1db62072", spawning console
+[2022.10.28-22.58.30:715][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.28-22.58.30:715][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.28-22.58.30:753][  0]LogInit: Transaction tracking system initialized
+[2022.10.28-22.58.30:828][  0]BlueprintLog: New page: Editor Load
+[2022.10.28-22.58.31:016][  0]LocalizationService: Localization service is disabled
+[2022.10.28-22.58.31:060][  0]TimingProfiler: Initialize
+[2022.10.28-22.58.31:061][  0]TimingProfiler: OnSessionChanged
+[2022.10.28-22.58.31:061][  0]LoadingProfiler: Initialize
+[2022.10.28-22.58.31:061][  0]LoadingProfiler: OnSessionChanged
+[2022.10.28-22.58.31:061][  0]NetworkingProfiler: Initialize
+[2022.10.28-22.58.31:061][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.28-22.58.31:061][  0]MemoryProfiler: Initialize
+[2022.10.28-22.58.31:061][  0]MemoryProfiler: OnSessionChanged
+[2022.10.28-22.58.31:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/' took 0.02s
+[2022.10.28-22.58.31:991][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.28-22.58.32:066][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.28-22.58.32:067][  0]SourceControl: Source control is disabled
+[2022.10.28-22.58.32:067][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.406
+[2022.10.28-22.58.32:068][  0]Cmd: MAP LOAD FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.28-22.58.32:068][  0]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.32:074][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-22.58.32:074][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-22.58.32:074][  0]MapCheck: New page: Map Check
+[2022.10.28-22.58.32:074][  0]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.32:079][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-22.58.32:082][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.28-22.58.32:769][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2022.10.28-22.58.32:769][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-22.58.32:769][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-22.58.32:769][  0]LogAIModule: Creating AISystem for world level1
+[2022.10.28-22.58.32:785][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.28-22.58.32:799][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.28-22.58.32:799][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.28-22.58.32:800][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2022.10.28-22.58.32:800][  0]LogFileHelpers: Loading map 'level1' took 0.733
+[2022.10.28-22.58.32:815][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.153
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: ================================================
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.28-22.58.32:815][  0]LogShaderCompilers: Display: ================================================
+[2022.10.28-22.58.32:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-22.58.32:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-22.58.32:949][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-22.58.32:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-22.58.32:979][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.28-22.58.32:979][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.32:984][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.28-22.58.32:984][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.32:988][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.28-22.58.32:988][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.32:992][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.28-22.58.32:992][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.33:001][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.28-22.58.33:001][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.33:007][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.28-22.58.33:007][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.33:011][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.28-22.58.33:011][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.33:016][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.28-22.58.33:016][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.33:019][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.28-22.58.33:019][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.33:022][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.28-22.58.33:023][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.28-22.58.33:397][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.10.28-22.58.33:482][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.28-22.58.34:105][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.28-22.58.34:108][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.28-22.58.34:113][  0]LogSlate: Took 0.003622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.28-22.58.34:114][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.28-22.58.34:119][  0]LogSlate: Took 0.004434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.28-22.58.34:133][  0]LogViewport: Scene viewport resized to 1526x421, mode Windowed.
+[2022.10.28-22.58.34:568][  0]LogStall: Startup...
+[2022.10.28-22.58.34:570][  0]LogStall: Startup complete.
+[2022.10.28-22.58.34:609][  0]LogLoad: (Engine Initialization) Total time: 17.95 seconds
+[2022.10.28-22.58.34:609][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.28-22.58.34:674][  0]LogAssetRegistry: Asset discovery search completed in 10.4865 seconds
+[2022.10.28-22.58.34:699][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.28-22.58.34:722][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.28-22.58.34:949][  2]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.28-22.58.37:751][299]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.28-22.58.37:755][299]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.28-22.58.39:558][500]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-22.58.39:561][500]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-22.58.45:916][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.28-22.58.45:975][241]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/bossmap.bossmap
+[2022.10.28-22.58.45:975][241]Cmd: MAP LOAD FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.28-22.58.45:975][241]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.45:975][241]LoadErrors: New page: Loading map: bossmap.umap
+[2022.10.28-22.58.45:976][241]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/Levels/level1.level1:PersistentLevel.PaperTileMapActor_3.RenderComponent)
+[2022.10.28-22.58.45:976][241]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/Levels/level1.level1:PersistentLevel.PaperTileMapActor_4.RenderComponent)
+[2022.10.28-22.58.46:003][241]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-22.58.46:004][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-22.58.46:004][241]MapCheck: New page: Map Check
+[2022.10.28-22.58.46:004][241]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.46:009][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-22.58.46:014][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.28-22.58.46:021][241]LogWorld: UWorld::CleanupWorld for bossmap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-22.58.46:021][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-22.58.46:027][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.10.28-22.58.46:033][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.28-22.58.46:037][241]LogAudio: Display: Audio Device (ID: 1) registered with world 'bossmap'.
+[2022.10.28-22.58.46:037][241]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-22.58.46:037][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-22.58.46:037][241]LogAIModule: Creating AISystem for world bossmap
+[2022.10.28-22.58.46:080][241]LogEditCondition: Error: EditCondition attempted to use an invalid operand "WorldPartition".
+[2022.10.28-22.58.46:080][241]LogEditCondition: Error: EditCondition attempted to use an invalid operand "TextureSizingType" (value error).
+[2022.10.28-22.58.46:138][241]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.28-22.58.46:145][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.28-22.58.46:155][241]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.28-22.58.46:155][241]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2022.10.28-22.58.46:155][241]LogFileHelpers: Loading map 'bossmap' took 0.180
+[2022.10.28-22.58.48:444][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.28-22.58.48:516][488]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/level1.level1
+[2022.10.28-22.58.48:517][488]Cmd: MAP LOAD FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.28-22.58.48:517][488]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.48:517][488]LoadErrors: New page: Loading map: level1.umap
+[2022.10.28-22.58.48:563][488]LogWorld: UWorld::CleanupWorld for bossmap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-22.58.48:564][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-22.58.48:564][488]MapCheck: New page: Map Check
+[2022.10.28-22.58.48:564][488]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.48:569][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-22.58.48:575][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.28-22.58.48:576][488]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-22.58.48:576][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-22.58.48:583][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.28-22.58.48:589][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.28-22.58.48:595][488]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2022.10.28-22.58.48:595][488]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-22.58.48:596][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-22.58.48:596][488]LogAIModule: Creating AISystem for world level1
+[2022.10.28-22.58.48:722][488]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.28-22.58.48:732][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.28-22.58.48:741][488]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.28-22.58.48:742][488]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2022.10.28-22.58.48:742][488]LogFileHelpers: Loading map 'level1' took 0.225
+[2022.10.28-22.58.50:142][628]Cmd: EDIT COPY
+[2022.10.28-22.58.51:276][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.28-22.58.51:341][753]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/bossmap.bossmap
+[2022.10.28-22.58.51:341][753]Cmd: MAP LOAD FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.28-22.58.51:341][753]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.51:341][753]LoadErrors: New page: Loading map: bossmap.umap
+[2022.10.28-22.58.51:342][753]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/Levels/level1.level1:PersistentLevel.PaperTileMapActor_3.RenderComponent)
+[2022.10.28-22.58.51:342][753]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/Levels/level1.level1:PersistentLevel.PaperTileMapActor_4.RenderComponent)
+[2022.10.28-22.58.51:373][753]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-22.58.51:374][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-22.58.51:374][753]MapCheck: New page: Map Check
+[2022.10.28-22.58.51:374][753]LightingResults: New page: Lighting Build
+[2022.10.28-22.58.51:378][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-22.58.51:383][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.28-22.58.51:385][753]LogWorld: UWorld::CleanupWorld for bossmap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-22.58.51:385][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-22.58.51:390][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.10.28-22.58.51:396][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.28-22.58.51:400][753]LogAudio: Display: Audio Device (ID: 1) registered with world 'bossmap'.
+[2022.10.28-22.58.51:400][753]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-22.58.51:400][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-22.58.51:401][753]LogAIModule: Creating AISystem for world bossmap
+[2022.10.28-22.58.51:499][753]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.28-22.58.51:507][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.28-22.58.51:516][753]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.28-22.58.51:516][753]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2022.10.28-22.58.51:516][753]LogFileHelpers: Loading map 'bossmap' took 0.175
+[2022.10.28-22.58.54:261][ 62]Cmd: EDIT PASTE
+[2022.10.28-22.59.21:576][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.28-22.59.21:650][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/bossmap" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.28-22.59.21:655][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.28-22.59.21:659][184]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.003104 seconds
+[2022.10.28-22.59.21:665][184]LogSavePackage: Moving output files for package: /Game/Levels/bossmap
+[2022.10.28-22.59.21:666][184]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossmapA6E66803432E7EB5E7A9318AD6BCF1E3.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap'
+[2022.10.28-22.59.21:678][184]LogFileHelpers: No new changes to save!
+[2022.10.28-22.59.21:678][184]LogFileHelpers: Saving map 'bossmap' took 0.028
+[2022.10.28-22.59.21:687][184]AssetCheck: New page: Asset Save: bossmap
+[2022.10.28-22.59.21:687][184]LogContentValidation: Display: Validating World /Game/Levels/bossmap.bossmap
+[2022.10.28-22.59.35:779][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.28-22.59.43:899][718]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.28-22.59.43:901][718]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.10.28-22.59.43:955][719]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.10.28-22.59.43:980][720]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.10.28-22.59.49:958][364]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.28-22.59.58:042][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.28-22.59.58:106][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_0" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_0.uasset" SILENT=true
+[2022.10.28-22.59.58:107][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_0
+[2022.10.28-22.59.58:107][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_04313736448B612E0295B5A8AE2DC9D36.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_0.uasset'
+[2022.10.28-22.59.58:110][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_1" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_1.uasset" SILENT=true
+[2022.10.28-22.59.58:111][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_1
+[2022.10.28-22.59.58:111][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_167D9BAF04EE8738386ABF7A71D0A6901.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_1.uasset'
+[2022.10.28-22.59.58:114][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_2" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_2.uasset" SILENT=true
+[2022.10.28-22.59.58:115][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_2
+[2022.10.28-22.59.58:115][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_2C442CE594453D048010F3299276E8572.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_2.uasset'
+[2022.10.28-22.59.58:117][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_3" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_3.uasset" SILENT=true
+[2022.10.28-22.59.58:118][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_3
+[2022.10.28-22.59.58:119][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_3C8F19E354AE6156AB7B7AD816C133071.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_3.uasset'
+[2022.10.28-22.59.58:121][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_4" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_4.uasset" SILENT=true
+[2022.10.28-22.59.58:122][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_4
+[2022.10.28-22.59.58:122][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_469FB32D041E7A9325DB3E2B62B1A57C3.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_4.uasset'
+[2022.10.28-22.59.58:125][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_5" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_5.uasset" SILENT=true
+[2022.10.28-22.59.58:127][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_5
+[2022.10.28-22.59.58:127][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_580019AD44DA1AD3E08F4AB9E940112C9.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_5.uasset'
+[2022.10.28-22.59.58:129][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_6" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_6.uasset" SILENT=true
+[2022.10.28-22.59.58:131][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_6
+[2022.10.28-22.59.58:131][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_695302ABC44227A56421668AC96773A67.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_6.uasset'
+[2022.10.28-22.59.58:133][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/sword/Sword_sprite_Sprite_7" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_7.uasset" SILENT=true
+[2022.10.28-22.59.58:135][296]LogSavePackage: Moving output files for package: /Game/Boss/sword/Sword_sprite_Sprite_7
+[2022.10.28-22.59.58:135][296]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_7D662683A4875354B177143B16E7FA539.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/sword/Sword_sprite_Sprite_7.uasset'
+[2022.10.28-22.59.58:145][296]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_7.Sword_sprite_Sprite_7
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_6.Sword_sprite_Sprite_6
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_5.Sword_sprite_Sprite_5
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_4.Sword_sprite_Sprite_4
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_3.Sword_sprite_Sprite_3
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_2.Sword_sprite_Sprite_2
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_1.Sword_sprite_Sprite_1
+[2022.10.28-22.59.58:145][296]LogContentValidation: Display: Validating PaperSprite /Game/Boss/sword/Sword_sprite_Sprite_0.Sword_sprite_Sprite_0
+[2022.10.28-23.00.05:211][111]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.00.05:212][111]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.00.06:004][199]LogContentBrowser: Deferred new asset file creation: Sword_sprite1
+[2022.10.28-23.00.06:025][199]LogContentBrowser: Creating deferred item: Sword_sprite1
+[2022.10.28-23.00.06:033][200]LogContentBrowser: Renaming the item being created (Deferred Item: Sword_sprite1).
+[2022.10.28-23.00.06:611][262]LogContentBrowser: Attempting asset rename: Sword_sprite1 -> Sword_sprite1
+[2022.10.28-23.00.06:611][262]LogContentBrowser: End creating deferred item Sword_sprite1
+[2022.10.28-23.00.10:088][659]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.00.10:088][659]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.00.10:742][729]LogContentBrowser: Deferred new asset file creation: Sword_sprite2
+[2022.10.28-23.00.10:764][729]LogContentBrowser: Creating deferred item: Sword_sprite2
+[2022.10.28-23.00.10:773][730]LogContentBrowser: Renaming the item being created (Deferred Item: Sword_sprite2).
+[2022.10.28-23.00.15:097][243]LogContentBrowser: Attempting asset rename: Sword_sprite2 -> sworddestroyed
+[2022.10.28-23.00.15:097][243]LogContentBrowser: End creating deferred item Sword_sprite2
+[2022.10.28-23.00.29:508][516]LogDerivedDataCache: C:/Users/banji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.485 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.28-23.00.53:010][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/bossmap" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.28-23.00.53:015][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.28-23.00.53:022][223]LogSavePackage: Moving output files for package: /Game/Levels/bossmap
+[2022.10.28-23.00.53:023][223]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossmap040FBD5742856F8DBB96949F84D7B63B.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap'
+[2022.10.28-23.00.53:034][223]LogFileHelpers: No new changes to save!
+[2022.10.28-23.00.53:042][223]AssetCheck: New page: Asset Save: bossmap
+[2022.10.28-23.00.53:042][223]LogContentValidation: Display: Validating World /Game/Levels/bossmap.bossmap
+[2022.10.28-23.00.53:964][324]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.28-23.00.53:971][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-23.00.53:971][324]PIE: New page: PIE session: bossmap (29 Oct 2022, 01:00:53)
+[2022.10.28-23.00.53:974][324]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.28-23.00.53:974][324]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.28-23.00.53:974][324]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_bossmap
+[2022.10.28-23.00.53:975][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001588s)
+[2022.10.28-23.00.53:975][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/bossmap.bossmap to /Game/Levels/UEDPIE_0_bossmap.bossmap (0.001647s)
+[2022.10.28-23.00.53:975][324]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-23.00.53:975][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-23.00.53:975][324]LogAIModule: Creating AISystem for world bossmap
+[2022.10.28-23.00.53:976][324]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2022.10.28-23.00.53:981][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.28-23.00.53:982][324]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.28-23.00.53:982][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-23.00.53:982][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-23.00.53:982][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-23.00.53:982][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-23.00.53:982][324]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-23.00.53:982][324]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-23.00.53:982][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-23.00.53:982][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-23.00.53:982][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-23.00.53:982][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-23.00.53:982][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-23.00.53:984][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-23.00.54:004][324]LogAudioMixer: Display: Using Audio Hardware Device Speakers (AB Revolve+)
+[2022.10.28-23.00.54:004][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-23.00.54:004][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-23.00.54:004][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-23.00.54:006][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.28-23.00.54:006][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.28-23.00.54:007][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.28-23.00.54:007][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.28-23.00.54:007][324]LogInit: FAudioDevice initialized.
+[2022.10.28-23.00.54:007][324]LogAudio: Display: Audio Device (ID: 2) registered with world 'bossmap'.
+[2022.10.28-23.00.54:051][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-23.00.54:051][324]LogLoad: Game class is '2dgamemode_C'
+[2022.10.28-23.00.54:052][324]LogWorld: Bringing World /Game/Levels/UEDPIE_0_bossmap.bossmap up for play (max tick rate 0) at 2022.10.29-00.00.54
+[2022.10.28-23.00.54:052][324]LogWorld: Bringing up level for play took: 0.000882
+[2022.10.28-23.00.54:054][324]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.10.28-23.00.54:068][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.28-23.00.54:071][324]PIE: Server logged in
+[2022.10.28-23.00.54:073][324]PIE: Play in editor total start time 0.102 seconds.
+[2022.10.28-23.00.54:108][324]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.28-23.00.59:234][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-23.00.59:234][916]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_bossmap
+[2022.10.28-23.00.59:234][916]LogSlate: Window 'actionplatformer Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-23.00.59:238][916]LogWorld: UWorld::CleanupWorld for bossmap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-23.00.59:238][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-23.00.59:246][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-23.00.59:248][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-23.00.59:253][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-23.00.59:254][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-23.00.59:258][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.28-23.00.59:319][918]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.10.28-23.01.08:766][928]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.28-23.01.08:772][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-23.01.08:772][928]PIE: New page: PIE session: bossmap (29 Oct 2022, 01:01:08)
+[2022.10.28-23.01.08:773][928]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_bossmap
+[2022.10.28-23.01.08:774][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001484s)
+[2022.10.28-23.01.08:774][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/bossmap.bossmap to /Game/Levels/UEDPIE_0_bossmap.bossmap (0.001537s)
+[2022.10.28-23.01.08:774][928]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-23.01.08:774][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-23.01.08:774][928]LogAIModule: Creating AISystem for world bossmap
+[2022.10.28-23.01.08:774][928]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2022.10.28-23.01.08:780][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.28-23.01.08:781][928]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.28-23.01.08:781][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-23.01.08:781][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-23.01.08:781][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-23.01.08:781][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-23.01.08:781][928]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-23.01.08:781][928]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-23.01.08:781][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-23.01.08:781][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-23.01.08:781][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-23.01.08:781][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-23.01.08:781][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-23.01.08:783][928]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-23.01.08:802][928]LogAudioMixer: Display: Using Audio Hardware Device Speakers (AB Revolve+)
+[2022.10.28-23.01.08:803][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-23.01.08:803][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-23.01.08:803][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-23.01.08:803][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.28-23.01.08:803][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.28-23.01.08:805][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.28-23.01.08:805][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.28-23.01.08:805][928]LogInit: FAudioDevice initialized.
+[2022.10.28-23.01.08:805][928]LogAudio: Display: Audio Device (ID: 3) registered with world 'bossmap'.
+[2022.10.28-23.01.08:848][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-23.01.08:849][928]LogLoad: Game class is '2dgamemode_C'
+[2022.10.28-23.01.08:850][928]LogWorld: Bringing World /Game/Levels/UEDPIE_0_bossmap.bossmap up for play (max tick rate 0) at 2022.10.29-00.01.08
+[2022.10.28-23.01.08:850][928]LogWorld: Bringing up level for play took: 0.000960
+[2022.10.28-23.01.08:852][928]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.10.28-23.01.08:853][928]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.28-23.01.08:856][928]PIE: Server logged in
+[2022.10.28-23.01.08:857][928]PIE: Play in editor total start time 0.084 seconds.
+[2022.10.28-23.01.08:890][928]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.28-23.01.10:153][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-23.01.10:153][ 59]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_bossmap
+[2022.10.28-23.01.10:154][ 59]LogSlate: Window 'actionplatformer Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-23.01.10:157][ 59]LogWorld: UWorld::CleanupWorld for bossmap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-23.01.10:157][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-23.01.10:169][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-23.01.10:171][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-23.01.10:177][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.28-23.01.10:178][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.28-23.01.10:181][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.28-23.01.10:236][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.10.28-23.01.12:681][348]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.10.28-23.01.12:688][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-23.01.12:688][348]PIE: New page: PIE session: bossmap (29 Oct 2022, 01:01:12)
+[2022.10.28-23.01.12:689][348]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_bossmap
+[2022.10.28-23.01.12:689][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001440s)
+[2022.10.28-23.01.12:689][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/bossmap.bossmap to /Game/Levels/UEDPIE_0_bossmap.bossmap (0.001500s)
+[2022.10.28-23.01.12:690][348]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.28-23.01.12:690][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-23.01.12:690][348]LogAIModule: Creating AISystem for world bossmap
+[2022.10.28-23.01.12:690][348]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2022.10.28-23.01.12:696][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.28-23.01.12:697][348]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.28-23.01.12:697][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-23.01.12:697][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-23.01.12:697][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-23.01.12:697][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-23.01.12:697][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-23.01.12:697][348]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-23.01.12:697][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-23.01.12:697][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-23.01.12:697][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-23.01.12:697][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-23.01.12:697][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-23.01.12:699][348]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-23.01.12:718][348]LogAudioMixer: Display: Using Audio Hardware Device Speakers (AB Revolve+)
+[2022.10.28-23.01.12:719][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-23.01.12:719][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-23.01.12:719][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-23.01.12:720][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.28-23.01.12:720][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.10.28-23.01.12:721][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.28-23.01.12:721][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.28-23.01.12:721][348]LogInit: FAudioDevice initialized.
+[2022.10.28-23.01.12:721][348]LogAudio: Display: Audio Device (ID: 4) registered with world 'bossmap'.
+[2022.10.28-23.01.12:768][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-23.01.12:768][348]LogLoad: Game class is '2dgamemode_C'
+[2022.10.28-23.01.12:769][348]LogWorld: Bringing World /Game/Levels/UEDPIE_0_bossmap.bossmap up for play (max tick rate 0) at 2022.10.29-00.01.12
+[2022.10.28-23.01.12:769][348]LogWorld: Bringing up level for play took: 0.000935
+[2022.10.28-23.01.12:771][348]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.10.28-23.01.12:773][348]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.10.28-23.01.12:775][348]PIE: Server logged in
+[2022.10.28-23.01.12:776][348]PIE: Play in editor total start time 0.088 seconds.
+[2022.10.28-23.01.12:810][348]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2022.10.28-23.01.23:873][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-23.01.23:873][654]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_bossmap
+[2022.10.28-23.01.23:874][654]LogSlate: Window 'actionplatformer Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.28-23.01.23:877][654]LogWorld: UWorld::CleanupWorld for bossmap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-23.01.23:878][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-23.01.23:891][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-23.01.23:893][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-23.01.23:898][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.28-23.01.23:900][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.28-23.01.23:905][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.28-23.01.23:963][655]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.10.28-23.01.29:343][214]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.10.28-23.01.29:369][215]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.10.28-23.01.29:388][216]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.10.28-23.01.36:167][982]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.28-23.01.43:262][790]LogContentBrowser: Deferred new asset file creation: attacking1
+[2022.10.28-23.01.43:279][790]LogContentBrowser: Creating deferred item: attacking1
+[2022.10.28-23.01.43:288][791]LogContentBrowser: Renaming the item being created (Deferred Item: attacking1).
+[2022.10.28-23.01.45:991][109]LogContentBrowser: Attempting asset rename: attacking1 -> bossattack
+[2022.10.28-23.01.45:992][109]LogContentBrowser: End creating deferred item attacking1
+[2022.10.28-23.01.50:734][600]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.10.28-23.01.50:756][601]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.10.28-23.01.50:775][602]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.10.28-23.01.55:880][180]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.28-23.01.58:673][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.01.58:673][485]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.01.59:196][538]LogContentBrowser: Deferred new asset file creation: damaged1
+[2022.10.28-23.01.59:281][538]LogContentBrowser: Creating deferred item: damaged1
+[2022.10.28-23.01.59:290][539]LogContentBrowser: Renaming the item being created (Deferred Item: damaged1).
+[2022.10.28-23.02.01:298][779]LogContentBrowser: Attempting asset rename: damaged1 -> bossdamaged
+[2022.10.28-23.02.01:299][779]LogContentBrowser: End creating deferred item damaged1
+[2022.10.28-23.02.06:124][293]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.10.28-23.02.06:184][294]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.10.28-23.02.06:209][295]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.10.28-23.02.13:016][ 55]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.28-23.02.24:636][393]LogContentBrowser: Deferred new asset file creation: death1
+[2022.10.28-23.02.24:723][393]LogContentBrowser: Creating deferred item: death1
+[2022.10.28-23.02.24:734][394]LogContentBrowser: Renaming the item being created (Deferred Item: death1).
+[2022.10.28-23.02.27:658][744]LogContentBrowser: Attempting asset rename: death1 -> bossdeath
+[2022.10.28-23.02.27:658][744]LogContentBrowser: End creating deferred item death1
+[2022.10.28-23.02.35:993][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/bossmap" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.28-23.02.35:999][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.28-23.02.36:009][719]LogSavePackage: Moving output files for package: /Game/Levels/bossmap
+[2022.10.28-23.02.36:010][719]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossmap539AC1754213A6A794B07A8024C4C803.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Levels/bossmap.umap'
+[2022.10.28-23.02.36:022][719]LogFileHelpers: No new changes to save!
+[2022.10.28-23.02.36:028][719]AssetCheck: New page: Asset Save: bossmap
+[2022.10.28-23.02.36:028][719]LogContentValidation: Display: Validating World /Game/Levels/bossmap.bossmap
+[2022.10.28-23.02.38:414][924]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.10.28-23.02.38:442][925]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.10.28-23.02.38:466][926]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.10.28-23.02.39:513][ 49]LogViewport: Scene viewport resized to 815x697, mode Windowed.
+[2022.10.28-23.02.40:126][120]LogViewport: Scene viewport resized to 696x697, mode Windowed.
+[2022.10.28-23.02.40:144][121]LogViewport: Scene viewport resized to 687x697, mode Windowed.
+[2022.10.28-23.02.45:776][761]LogSlate: Window 'Extract sprites' being destroyed
+[2022.10.28-23.02.51:032][358]LogContentBrowser: Deferred new asset file creation: idle1
+[2022.10.28-23.02.51:115][358]LogContentBrowser: Creating deferred item: idle1
+[2022.10.28-23.02.51:123][359]LogContentBrowser: Renaming the item being created (Deferred Item: idle1).
+[2022.10.28-23.02.53:141][600]LogContentBrowser: Attempting asset rename: idle1 -> bossidle
+[2022.10.28-23.02.53:141][600]LogContentBrowser: End creating deferred item idle1
+[2022.10.28-23.03.12:195][176]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\banji\Desktop\boss\bosshealthbar.png)
+[2022.10.28-23.03.12:198][176]LogTexture: Display: Building textures: /Game/Boss/bosshealthbar.bosshealthbar (BGRA8, 830X200 X1X1) (Required Memory Estimate: 3.166199 MB), EncodeSpeed: Fast
+[2022.10.28-23.03.12:198][176]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\banji\Desktop\boss\bosshealthbarempty.png)
+[2022.10.28-23.03.12:208][176]LogTexture: Display: Building textures: /Game/Boss/bosshealthbarempty.bosshealthbarempty (BGRA8, 830X200 X1X1) (Required Memory Estimate: 3.166199 MB), EncodeSpeed: Fast
+[2022.10.28-23.03.16:482][533]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.03.16:482][533]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.28-23.03.39:015][904]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.28-23.03.39:033][904]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.28-23.03.39:042][905]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.28-23.03.42:130][269]LogContentBrowser: Attempting asset rename: NewFolder -> flipbooks
+[2022.10.28-23.03.42:133][269]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.28-23.03.45:865][700]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.10.28-23.03.45:865][700]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.10.28-23.03.47:164][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/attacking/bossattack" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/bossattack.uasset" SILENT=true
+[2022.10.28-23.03.47:166][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/bossattack
+[2022.10.28-23.03.47:166][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossattackA21B0BCF4DE86F2CC5B45EBFD9C149E5.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/bossattack.uasset'
+[2022.10.28-23.03.47:171][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_17
+[2022.10.28-23.03.47:171][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_175D5750D34C2B606EE0549792800B5512.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_17.uasset'
+[2022.10.28-23.03.47:175][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_16
+[2022.10.28-23.03.47:176][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_1655FFD9A142F23A187E6DACB74F5E8A45.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_16.uasset'
+[2022.10.28-23.03.47:180][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_15
+[2022.10.28-23.03.47:180][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_154F3DE8D14973483FCC013D859C845D2A.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_15.uasset'
+[2022.10.28-23.03.47:183][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_14
+[2022.10.28-23.03.47:183][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_14E922615D4069D594A1A3C5A99FEB7C4F.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_14.uasset'
+[2022.10.28-23.03.47:187][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_13
+[2022.10.28-23.03.47:187][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_134FC5CB9046C04D95F63D86837770672D.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_13.uasset'
+[2022.10.28-23.03.47:191][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_12
+[2022.10.28-23.03.47:191][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_12D3AB89F845D94A9397CB41A662CB4C86.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_12.uasset'
+[2022.10.28-23.03.47:194][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_11
+[2022.10.28-23.03.47:194][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_1192CC62E242F4C4A5D6742C8E9C1F378F.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_11.uasset'
+[2022.10.28-23.03.47:199][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_10
+[2022.10.28-23.03.47:199][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_1036B2EBEE474AC6938F72359B6180D589.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_10.uasset'
+[2022.10.28-23.03.47:202][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_9
+[2022.10.28-23.03.47:202][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_9D469689C44A81D0D372212A2B2F73ECC.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_9.uasset'
+[2022.10.28-23.03.47:207][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_8
+[2022.10.28-23.03.47:207][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_85C91E27A40F64687F293BFB2738DB6DB.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_8.uasset'
+[2022.10.28-23.03.47:211][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_7
+[2022.10.28-23.03.47:211][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_760BB814846E5BD519C5656850EC5613F.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_7.uasset'
+[2022.10.28-23.03.47:215][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_6
+[2022.10.28-23.03.47:215][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_6AB7B7FE749F9C3B3A3CE53B1D469729A.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_6.uasset'
+[2022.10.28-23.03.47:218][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_5
+[2022.10.28-23.03.47:219][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_5625602924564F2AA147F04AE72436E61.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_5.uasset'
+[2022.10.28-23.03.47:222][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_4
+[2022.10.28-23.03.47:223][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_4A454E0E749747BA1172D4C9BAF1AAB3F.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_4.uasset'
+[2022.10.28-23.03.47:227][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_3
+[2022.10.28-23.03.47:227][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_3ABA52AF8467EEA5C8F5557A2745CAF13.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_3.uasset'
+[2022.10.28-23.03.47:231][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_2
+[2022.10.28-23.03.47:231][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_26DDD05A04347304283C9AC8D3E30A48C.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_2.uasset'
+[2022.10.28-23.03.47:235][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_1
+[2022.10.28-23.03.47:235][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_11C3841EC44DA5F2E1E49AEB2FA979D35.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_1.uasset'
+[2022.10.28-23.03.47:239][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking_Sprite_0
+[2022.10.28-23.03.47:239][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attacking_Sprite_0D82831BE4BC2227E5E028DBDE73750C9.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking_Sprite_0.uasset'
+[2022.10.28-23.03.47:241][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/attacking/attacking" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking.uasset" SILENT=true
+[2022.10.28-23.03.47:244][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/attacking/attacking
+[2022.10.28-23.03.47:244][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/attackingB46CA0D04E31652F3EDDC6B6927B4CC7.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/attacking/attacking.uasset'
+[2022.10.28-23.03.47:303][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.28-23.03.47:312][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.28-23.03.47:317][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.28-23.03.47:399][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/damaged/damaged_Sprite_0
+[2022.10.28-23.03.47:399][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/damaged_Sprite_01CA997EA43B1936F9E23BAB85AD4AEF1.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/damaged_Sprite_0.uasset'
+[2022.10.28-23.03.47:401][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/damaged/damaged" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/damaged.uasset" SILENT=true
+[2022.10.28-23.03.47:402][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/damaged/damaged
+[2022.10.28-23.03.47:402][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/damaged306AA7CF47B2A9825FE40288506CAAB3.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/damaged.uasset'
+[2022.10.28-23.03.47:406][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/damaged/bossdamaged" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/bossdamaged.uasset" SILENT=true
+[2022.10.28-23.03.47:407][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/damaged/bossdamaged
+[2022.10.28-23.03.47:407][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossdamaged69B60B374914EF05547F8D88A1430430.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/bossdamaged.uasset'
+[2022.10.28-23.03.47:412][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/damaged/damaged_Sprite_4
+[2022.10.28-23.03.47:412][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/damaged_Sprite_4F614F6E44F08F192118361B6206F5BFE.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/damaged_Sprite_4.uasset'
+[2022.10.28-23.03.47:415][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/damaged/damaged_Sprite_3
+[2022.10.28-23.03.47:415][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/damaged_Sprite_3F2310B4441402ACB856A2C9F362160BA.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/damaged_Sprite_3.uasset'
+[2022.10.28-23.03.47:419][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/damaged/damaged_Sprite_2
+[2022.10.28-23.03.47:419][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/damaged_Sprite_2499D56B54F383646F24EF0A35DF0EC9B.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/damaged_Sprite_2.uasset'
+[2022.10.28-23.03.47:423][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/damaged/damaged_Sprite_1
+[2022.10.28-23.03.47:423][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/damaged_Sprite_1324102EF4F6871E1DBBD5BB7CE7B39D9.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/damaged/damaged_Sprite_1.uasset'
+[2022.10.28-23.03.47:452][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.28-23.03.47:457][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.28-23.03.47:463][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.28-23.03.47:548][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/bossdeath" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/bossdeath.uasset" SILENT=true
+[2022.10.28-23.03.47:549][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/bossdeath
+[2022.10.28-23.03.47:549][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossdeath10A60FB947F70831A1AAB7AA65970D8F.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/bossdeath.uasset'
+[2022.10.28-23.03.47:552][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_19" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_19.uasset" SILENT=true
+[2022.10.28-23.03.47:553][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_19
+[2022.10.28-23.03.47:554][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_1903083F824393E8E4DED27D9EC80A9616.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_19.uasset'
+[2022.10.28-23.03.47:556][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_18" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_18.uasset" SILENT=true
+[2022.10.28-23.03.47:558][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_18
+[2022.10.28-23.03.47:558][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_184EDC2D094239EB6EA8A6B8962883B925.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_18.uasset'
+[2022.10.28-23.03.47:561][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_17" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_17.uasset" SILENT=true
+[2022.10.28-23.03.47:562][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_17
+[2022.10.28-23.03.47:562][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_17D8C0AF2046F8066C298EDCBF2B0DAB7D.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_17.uasset'
+[2022.10.28-23.03.47:565][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_16" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_16.uasset" SILENT=true
+[2022.10.28-23.03.47:567][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_16
+[2022.10.28-23.03.47:567][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_16F64688E74657B5280BAC3889F1E88E3B.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_16.uasset'
+[2022.10.28-23.03.47:569][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_15" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_15.uasset" SILENT=true
+[2022.10.28-23.03.47:572][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_15
+[2022.10.28-23.03.47:572][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_158F5E0206404BEA3278363E9D0E0B90B4.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_15.uasset'
+[2022.10.28-23.03.47:575][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_14" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_14.uasset" SILENT=true
+[2022.10.28-23.03.47:576][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_14
+[2022.10.28-23.03.47:576][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_1416B9952A4F9972ACE80BADA0DA32A890.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_14.uasset'
+[2022.10.28-23.03.47:578][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_13" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_13.uasset" SILENT=true
+[2022.10.28-23.03.47:580][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_13
+[2022.10.28-23.03.47:580][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_13A70B42FE427D3FD8FD5F4E9F1C5EE3ED.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_13.uasset'
+[2022.10.28-23.03.47:583][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_12" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_12.uasset" SILENT=true
+[2022.10.28-23.03.47:584][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_12
+[2022.10.28-23.03.47:584][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_124FE221FE4DB14437B0290F956B351BB4.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_12.uasset'
+[2022.10.28-23.03.47:588][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_11" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_11.uasset" SILENT=true
+[2022.10.28-23.03.47:589][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_11
+[2022.10.28-23.03.47:589][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_11710B3A31452586DEE827D18DE0463F12.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_11.uasset'
+[2022.10.28-23.03.47:592][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_10" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_10.uasset" SILENT=true
+[2022.10.28-23.03.47:593][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_10
+[2022.10.28-23.03.47:593][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_10189A7A6B4753C944AA7D7EB347CF335E.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_10.uasset'
+[2022.10.28-23.03.47:596][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_9" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_9.uasset" SILENT=true
+[2022.10.28-23.03.47:597][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_9
+[2022.10.28-23.03.47:597][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_9AD234C57413D4C6770E0FF99A9D1755F.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_9.uasset'
+[2022.10.28-23.03.47:600][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_8" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_8.uasset" SILENT=true
+[2022.10.28-23.03.47:602][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_8
+[2022.10.28-23.03.47:602][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_8CFF3415E4F3369FE37D0F2B6C6759637.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_8.uasset'
+[2022.10.28-23.03.47:605][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_7" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_7.uasset" SILENT=true
+[2022.10.28-23.03.47:607][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_7
+[2022.10.28-23.03.47:607][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_7DE6187B14FA8B9B3283AFEB49BC27B4A.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_7.uasset'
+[2022.10.28-23.03.47:609][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_6" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_6.uasset" SILENT=true
+[2022.10.28-23.03.47:612][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_6
+[2022.10.28-23.03.47:612][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_6662DEFC242036EA7B24340923040630B.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_6.uasset'
+[2022.10.28-23.03.47:614][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_5" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_5.uasset" SILENT=true
+[2022.10.28-23.03.47:616][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_5
+[2022.10.28-23.03.47:616][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_5BD8B7B5E440A968D7D64858570664900.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_5.uasset'
+[2022.10.28-23.03.47:618][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_4" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_4.uasset" SILENT=true
+[2022.10.28-23.03.47:620][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_4
+[2022.10.28-23.03.47:620][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_431EB4F99411E1DC7C268BE9A67326A90.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_4.uasset'
+[2022.10.28-23.03.47:623][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_3" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_3.uasset" SILENT=true
+[2022.10.28-23.03.47:625][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_3
+[2022.10.28-23.03.47:625][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_3B151BB7B491CC2937C6B3E8C2C510CFE.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_3.uasset'
+[2022.10.28-23.03.47:627][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_2" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_2.uasset" SILENT=true
+[2022.10.28-23.03.47:629][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_2
+[2022.10.28-23.03.47:629][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_283900DC7453338A1D84F5BAD5B13AB4B.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_2.uasset'
+[2022.10.28-23.03.47:631][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_1" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_1.uasset" SILENT=true
+[2022.10.28-23.03.47:633][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_1
+[2022.10.28-23.03.47:633][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_183E6C4984B831B38CCB09CACD257F8B0.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_1.uasset'
+[2022.10.28-23.03.47:635][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death_Sprite_0" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_0.uasset" SILENT=true
+[2022.10.28-23.03.47:637][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death_Sprite_0
+[2022.10.28-23.03.47:637][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death_Sprite_078481EBD43D6BB65F50528BCC2A19F68.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death_Sprite_0.uasset'
+[2022.10.28-23.03.47:640][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/death/death" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death.uasset" SILENT=true
+[2022.10.28-23.03.47:643][828]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/death/death
+[2022.10.28-23.03.47:643][828]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/death841240B64EB534B6C66FF2A9FDE10EFC.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/death/death.uasset'
+[2022.10.28-23.03.47:706][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.10.28-23.03.47:712][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.28-23.03.47:717][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.28-23.03.47:747][828]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperFlipbook /Game/Boss/flipbooks/death/bossdeath.bossdeath
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_19.death_Sprite_19
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_18.death_Sprite_18
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_17.death_Sprite_17
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_16.death_Sprite_16
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_15.death_Sprite_15
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_14.death_Sprite_14
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_13.death_Sprite_13
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_12.death_Sprite_12
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_11.death_Sprite_11
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_10.death_Sprite_10
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_9.death_Sprite_9
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_8.death_Sprite_8
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_7.death_Sprite_7
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_6.death_Sprite_6
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_5.death_Sprite_5
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_4.death_Sprite_4
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_3.death_Sprite_3
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_2.death_Sprite_2
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_1.death_Sprite_1
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/death/death_Sprite_0.death_Sprite_0
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/damaged/damaged_Sprite_0.damaged_Sprite_0
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating Texture2D /Game/Boss/flipbooks/damaged/damaged.damaged
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperFlipbook /Game/Boss/flipbooks/attacking/bossattack.bossattack
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating Texture2D /Game/Boss/flipbooks/death/death.death
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperFlipbook /Game/Boss/flipbooks/damaged/bossdamaged.bossdamaged
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/damaged/damaged_Sprite_4.damaged_Sprite_4
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/damaged/damaged_Sprite_3.damaged_Sprite_3
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/damaged/damaged_Sprite_2.damaged_Sprite_2
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/damaged/damaged_Sprite_1.damaged_Sprite_1
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_17.attacking_Sprite_17
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_16.attacking_Sprite_16
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_15.attacking_Sprite_15
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_14.attacking_Sprite_14
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_13.attacking_Sprite_13
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_12.attacking_Sprite_12
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_11.attacking_Sprite_11
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_10.attacking_Sprite_10
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_9.attacking_Sprite_9
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_8.attacking_Sprite_8
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_7.attacking_Sprite_7
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_6.attacking_Sprite_6
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_5.attacking_Sprite_5
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_4.attacking_Sprite_4
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_3.attacking_Sprite_3
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_2.attacking_Sprite_2
+[2022.10.28-23.03.47:747][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_1.attacking_Sprite_1
+[2022.10.28-23.03.47:748][828]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/attacking/attacking_Sprite_0.attacking_Sprite_0
+[2022.10.28-23.03.47:748][828]LogContentValidation: Display: Validating Texture2D /Game/Boss/flipbooks/attacking/attacking.attacking
+[2022.10.28-23.03.50:616][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/idle/bossidle" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/bossidle.uasset" SILENT=true
+[2022.10.28-23.03.50:618][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/idle/bossidle
+[2022.10.28-23.03.50:618][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossidle05DEDF6D431ADFDE1ECD7A9FA5C0A8CD.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/bossidle.uasset'
+[2022.10.28-23.03.50:620][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/idle/idle_Sprite_4" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_4.uasset" SILENT=true
+[2022.10.28-23.03.50:622][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/idle/idle_Sprite_4
+[2022.10.28-23.03.50:622][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/idle_Sprite_4B0ACA8684010025EF7E6109D2661465A.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_4.uasset'
+[2022.10.28-23.03.50:624][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/idle/idle_Sprite_3" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_3.uasset" SILENT=true
+[2022.10.28-23.03.50:625][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/idle/idle_Sprite_3
+[2022.10.28-23.03.50:625][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/idle_Sprite_35186DC044C08129773581F97240DF7E9.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_3.uasset'
+[2022.10.28-23.03.50:628][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/idle/idle_Sprite_2" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_2.uasset" SILENT=true
+[2022.10.28-23.03.50:630][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/idle/idle_Sprite_2
+[2022.10.28-23.03.50:630][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/idle_Sprite_240EB50A34FCA6663977BB6B80C429C30.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_2.uasset'
+[2022.10.28-23.03.50:632][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/idle/idle_Sprite_1" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_1.uasset" SILENT=true
+[2022.10.28-23.03.50:634][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/idle/idle_Sprite_1
+[2022.10.28-23.03.50:634][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/idle_Sprite_1675F4FE948176A366F6A479CC623AC72.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_1.uasset'
+[2022.10.28-23.03.50:636][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/idle/idle_Sprite_0" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_0.uasset" SILENT=true
+[2022.10.28-23.03.50:639][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/idle/idle_Sprite_0
+[2022.10.28-23.03.50:639][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/idle_Sprite_0FDE8F3744EDE5A9981D9D2897C541A16.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle_Sprite_0.uasset'
+[2022.10.28-23.03.50:641][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/idle/idle" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle.uasset" SILENT=true
+[2022.10.28-23.03.50:643][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/idle/idle
+[2022.10.28-23.03.50:643][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/idle6558EBD14780175E4D4890ACC974F1E0.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/idle/idle.uasset'
+[2022.10.28-23.03.50:669][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.28-23.03.50:676][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.28-23.03.50:681][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.28-23.03.50:767][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_7
+[2022.10.28-23.03.50:767][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_7A1159AE24A821EE609466587405FE875.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_7.uasset'
+[2022.10.28-23.03.50:769][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_6
+[2022.10.28-23.03.50:769][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_681905F284EC893C8748D20BA2A5CD835.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_6.uasset'
+[2022.10.28-23.03.50:772][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_5
+[2022.10.28-23.03.50:772][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_5EBBDF35348F2AD8457CAB6B55707B87B.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_5.uasset'
+[2022.10.28-23.03.50:774][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_4
+[2022.10.28-23.03.50:774][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_4ADB788B4496D7C816B014BAA3B9E4B51.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_4.uasset'
+[2022.10.28-23.03.50:777][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_3
+[2022.10.28-23.03.50:777][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_33B085BA2427609737AD81E9A08A97553.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_3.uasset'
+[2022.10.28-23.03.50:779][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_2
+[2022.10.28-23.03.50:779][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_2740A45B94A5443AB4C95A4AF544FBCCC.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_2.uasset'
+[2022.10.28-23.03.50:781][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_1
+[2022.10.28-23.03.50:781][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_1ACC18E5847F4D433F922558E3BEE3486.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_1.uasset'
+[2022.10.28-23.03.50:783][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_0
+[2022.10.28-23.03.50:783][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite_Sprite_0A5E4648C45B803F4A3F838807FBF9A9E.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite_Sprite_0.uasset'
+[2022.10.28-23.03.50:786][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/sword/sworddestroyed" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/sworddestroyed.uasset" SILENT=true
+[2022.10.28-23.03.50:787][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/sworddestroyed
+[2022.10.28-23.03.50:787][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/sworddestroyed2D7375484782E119FEEC7584CAB4FB14.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/sworddestroyed.uasset'
+[2022.10.28-23.03.50:789][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/sword/Sword_sprite1" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite1.uasset" SILENT=true
+[2022.10.28-23.03.50:790][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite1
+[2022.10.28-23.03.50:790][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite1A35D19EC49327DDFB1C33494E48D4F7E.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite1.uasset'
+[2022.10.28-23.03.50:793][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/flipbooks/sword/Sword_sprite" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite.uasset" SILENT=true
+[2022.10.28-23.03.50:794][120]LogSavePackage: Moving output files for package: /Game/Boss/flipbooks/sword/Sword_sprite
+[2022.10.28-23.03.50:794][120]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/Sword_sprite58AD800740FAAD45D833E4BE471A2E9D.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/flipbooks/sword/Sword_sprite.uasset'
+[2022.10.28-23.03.50:831][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.10.28-23.03.50:836][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.28-23.03.50:842][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.28-23.03.50:867][120]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperFlipbook /Game/Boss/flipbooks/idle/bossidle.bossidle
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/idle/idle_Sprite_4.idle_Sprite_4
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/idle/idle_Sprite_3.idle_Sprite_3
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/idle/idle_Sprite_2.idle_Sprite_2
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/idle/idle_Sprite_1.idle_Sprite_1
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/idle/idle_Sprite_0.idle_Sprite_0
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_7.Sword_sprite_Sprite_7
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_6.Sword_sprite_Sprite_6
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_5.Sword_sprite_Sprite_5
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_4.Sword_sprite_Sprite_4
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_3.Sword_sprite_Sprite_3
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_2.Sword_sprite_Sprite_2
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_1.Sword_sprite_Sprite_1
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperSprite /Game/Boss/flipbooks/sword/Sword_sprite_Sprite_0.Sword_sprite_Sprite_0
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperFlipbook /Game/Boss/flipbooks/sword/sworddestroyed.sworddestroyed
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating PaperFlipbook /Game/Boss/flipbooks/sword/Sword_sprite1.Sword_sprite1
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating Texture2D /Game/Boss/flipbooks/idle/idle.idle
+[2022.10.28-23.03.50:867][120]LogContentValidation: Display: Validating Texture2D /Game/Boss/flipbooks/sword/Sword_sprite.Sword_sprite
+[2022.10.28-23.03.55:550][617]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.28-23.03.55:566][617]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.28-23.03.55:574][618]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.28-23.03.58:328][942]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.10.28-23.03.58:329][942]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.28-23.04.13:111][577]LogContentBrowser: Deferred new asset file creation: NewPaperZDAnimationSource
+[2022.10.28-23.04.13:115][577]LogContentBrowser: Creating deferred item: NewPaperZDAnimationSource
+[2022.10.28-23.04.13:174][579]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperZDAnimationSource).
+[2022.10.28-23.04.18:267][173]LogContentBrowser: Attempting asset rename: NewPaperZDAnimationSource -> bossanimationsource
+[2022.10.28-23.04.18:267][173]LogContentBrowser: End creating deferred item NewPaperZDAnimationSource
+[2022.10.28-23.04.20:434][428]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Boss/Animations/bossanimationsource.bossanimationsource
+[2022.10.28-23.04.20:593][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-23.04.20:639][428]LogViewport: Scene viewport resized to 1141x894, mode Windowed.
+[2022.10.28-23.04.20:655][428]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.28-23.04.22:992][661]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2022.10.28-23.04.22:994][661]LogViewport: Scene viewport resized to 1141x534, mode Windowed.
+[2022.10.28-23.04.26:956][ 93]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> bossidle
+[2022.10.28-23.04.27:039][ 93]LogSavePackage: Moving output files for package: /Game/Boss/Animations/AnimSequences/bossidle
+[2022.10.28-23.04.27:040][ 93]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossidleAACEFAB04385BD433E5515909485D9DD.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/Animations/AnimSequences/bossidle.uasset'
+[2022.10.28-23.04.27:056][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.28-23.04.27:064][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.28-23.04.27:069][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.10.28-23.04.27:072][ 93]AssetCheck: New page: Asset Save: bossidle
+[2022.10.28-23.04.27:072][ 93]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Boss/Animations/AnimSequences/bossidle.bossidle
+[2022.10.28-23.04.40:049][466]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> bossattack
+[2022.10.28-23.04.40:117][466]LogSavePackage: Moving output files for package: /Game/Boss/Animations/AnimSequences/bossattack
+[2022.10.28-23.04.40:117][466]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossattackAF1E2E1D438075106E3981A418E15036.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/Animations/AnimSequences/bossattack.uasset'
+[2022.10.28-23.04.40:130][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.10.28-23.04.40:136][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.10.28-23.04.40:142][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.28-23.04.40:145][466]AssetCheck: New page: Asset Save: bossattack
+[2022.10.28-23.04.40:145][466]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Boss/Animations/AnimSequences/bossattack.bossattack
+[2022.10.28-23.04.48:409][343]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> bossdamaged
+[2022.10.28-23.04.48:457][343]LogSavePackage: Moving output files for package: /Game/Boss/Animations/AnimSequences/bossdamaged
+[2022.10.28-23.04.48:457][343]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossdamagedC2C979034FE4266A2868EA993D94EF62.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/Animations/AnimSequences/bossdamaged.uasset'
+[2022.10.28-23.04.48:470][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.28-23.04.48:477][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.28-23.04.48:482][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.28-23.04.48:484][343]AssetCheck: New page: Asset Save: bossdamaged
+[2022.10.28-23.04.48:484][343]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Boss/Animations/AnimSequences/bossdamaged.bossdamaged
+[2022.10.28-23.04.56:724][221]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> bossdie
+[2022.10.28-23.04.56:781][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Animations/AnimSequences/bossdie" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/Animations/AnimSequences/bossdie.uasset" SILENT=true
+[2022.10.28-23.04.56:782][221]LogSavePackage: Moving output files for package: /Game/Boss/Animations/AnimSequences/bossdie
+[2022.10.28-23.04.56:782][221]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossdie6AEE3B6A45506D95E225AEA53CE00CBC.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/Animations/AnimSequences/bossdie.uasset'
+[2022.10.28-23.04.56:794][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.28-23.04.56:800][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.28-23.04.56:806][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.28-23.04.56:808][221]AssetCheck: New page: Asset Save: bossdie
+[2022.10.28-23.04.56:809][221]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Boss/Animations/AnimSequences/bossdie.bossdie
+[2022.10.28-23.05.06:875][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Animations/bossanimationsource" FILE="C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/Animations/bossanimationsource.uasset" SILENT=true
+[2022.10.28-23.05.06:876][297]LogSavePackage: Moving output files for package: /Game/Boss/Animations/bossanimationsource
+[2022.10.28-23.05.06:876][297]LogSavePackage: Moving 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Saved/bossanimationsourceF9DC52A14EE1E79C7050B2A9529B09BD.tmp' to 'C:/Users/banji/Documents/Unreal Projects/actionplatformer/Content/Boss/Animations/bossanimationsource.uasset'
+[2022.10.28-23.05.06:883][297]AssetCheck: New page: Asset Save: bossanimationsource
+[2022.10.28-23.05.06:883][297]LogContentValidation: Display: Validating PaperZDAnimationSource_Flipbook /Game/Boss/Animations/bossanimationsource.bossanimationsource
+[2022.10.28-23.05.12:634][911]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.28-23.05.12:650][911]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.28-23.05.12:658][912]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.28-23.05.15:524][250]LogContentBrowser: Attempting asset rename: NewFolder -> blueprints
+[2022.10.28-23.05.15:524][250]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.28-23.05.20:529][807]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.28-23.05.26:210][807]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.28-23.05.26:215][807]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.28-23.05.26:219][807]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.28-23.05.26:237][809]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.28-23.05.29:931][242]LogContentBrowser: Attempting asset rename: NewBlueprint -> Boss_BP
+[2022.10.28-23.05.29:952][242]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.28-23.05.41:752][945]LogSlate: Window 'Pick Parent Animation Source' being destroyed
+[2022.10.28-23.05.41:758][945]LogContentBrowser: Deferred new asset file creation: NewPaperZDAnimBP
+[2022.10.28-23.05.41:761][945]LogContentBrowser: Creating deferred item: NewPaperZDAnimBP
+[2022.10.28-23.05.41:769][946]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperZDAnimBP).
+[2022.10.28-23.05.46:739][505]LogContentBrowser: Attempting asset rename: NewPaperZDAnimBP -> Bossanimbp
+[2022.10.28-23.05.46:744][505]LogContentBrowser: End creating deferred item NewPaperZDAnimBP
+[2022.10.28-23.05.48:323][690]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Boss/Animations/Bossanimbp.Bossanimbp
+[2022.10.28-23.05.48:338][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
